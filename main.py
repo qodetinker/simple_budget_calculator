@@ -1,6 +1,10 @@
+# 50/30/20
+# 50 = Needs
+# 30 = wants
+# 20 = Savings
 needs           = 0.50
-wants           = 0.25
-saves           = 0.25
+wants           = 0.30
+saves           = 0.20
 
 
 print(
